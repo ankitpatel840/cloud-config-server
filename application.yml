@@ -9,7 +9,7 @@ eureka:
     
     
     
-    microservice:
+microservice:
   Payment-Service:
     endpoints:
       endpoint:
